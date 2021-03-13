@@ -1,6 +1,15 @@
 package com.calculator;
 
+import java.util.Scanner;
+
 public class Calculator implements Operations{
+    public static void main(String[] args) {
+        Calculator obj = new Calculator();
+        System.out.println("Select options");
+        Scanner scanner = new Scanner(System.in);
+        scanner.nextInt();
+        System.out.println("Kam thy gyu");
+    }
     @Override
     public double sqrt(double number) {
         return Math.sqrt(number);
