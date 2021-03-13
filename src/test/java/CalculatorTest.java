@@ -18,13 +18,12 @@ public class CalculatorTest {
         assertNotSame("Testing False +ve for sqrt",2.5,calculator.sqrt(6));
     }
     @Test
-    @Disabled("not implemented yet")
+    //@Disabled("not implemented yet")
     public void factorialTruePositive(){
-        assertEquals("Testing true +ve for factorial",0,calculator.factorial(4),DELTA);
-        assertEquals("Testing true +ve for factorial",0,calculator.factorial( 5),DELTA);
+        assertEquals("Testing true +ve for factorial",24.00,calculator.factorial(4),DELTA);
+        assertEquals("Testing true +ve for factorial",120.00,calculator.factorial( 5),DELTA);
     }
     @Test
-    @Disabled("Still not implemented")
     public void factorialFalsePositive(){
         assertNotSame("Testing False +ve for factorial",3,calculator.factorial(3));
         assertNotSame("Testing False +ve for factorial",0,calculator.factorial(1));
