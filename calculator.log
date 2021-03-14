@@ -64,3 +64,37 @@
 13/Mar/2021:23:05:19 351 [Calculator.java] [INFO] com.calculator.Calculator [log ANSWER]-1.791759469228055
 13/Mar/2021:23:07:31 422 [Calculator.java] [INFO] com.calculator.Calculator [POWER]-3.0
 13/Mar/2021:23:07:31 441 [Calculator.java] [INFO] com.calculator.Calculator [POWER ANSWER]-81.0
+14/Mar/2021:13:55:46 565 [Calculator.java] [INFO] com.calculator.Calculator [FACTORIAL]-3
+14/Mar/2021:13:55:46 598 [Calculator.java] [INFO] com.calculator.Calculator [FACTORIAL ANSWER]-6.0
+14/Mar/2021:13:55:46 600 [Calculator.java] [INFO] com.calculator.Calculator [FACTORIAL]-1
+14/Mar/2021:13:55:46 602 [Calculator.java] [INFO] com.calculator.Calculator [FACTORIAL ANSWER]-1.0
+14/Mar/2021:13:55:46 604 [Calculator.java] [INFO] com.calculator.Calculator [SQUAREROOT]-8.0
+14/Mar/2021:13:55:46 607 [Calculator.java] [INFO] com.calculator.Calculator [SQUAREROOT ANSWER]-2.8284271247461903
+14/Mar/2021:13:55:46 609 [Calculator.java] [INFO] com.calculator.Calculator [SQUAREROOT]-6.0
+14/Mar/2021:13:55:46 610 [Calculator.java] [INFO] com.calculator.Calculator [SQUAREROOT ANSWER]-2.449489742783178
+14/Mar/2021:13:55:46 613 [Calculator.java] [INFO] com.calculator.Calculator [SQUAREROOT]-16.0
+14/Mar/2021:13:55:46 613 [Calculator.java] [INFO] com.calculator.Calculator [SQUAREROOT ANSWER]-4.0
+14/Mar/2021:13:55:46 614 [Calculator.java] [INFO] com.calculator.Calculator [SQUAREROOT]-5.43
+14/Mar/2021:13:55:46 616 [Calculator.java] [INFO] com.calculator.Calculator [SQUAREROOT ANSWER]-2.3302360395462087
+14/Mar/2021:13:55:46 618 [Calculator.java] [INFO] com.calculator.Calculator [log]-24.0
+14/Mar/2021:13:55:46 618 [Calculator.java] [INFO] com.calculator.Calculator [log ANSWER]-3.1780538303479458
+14/Mar/2021:13:55:46 619 [Calculator.java] [INFO] com.calculator.Calculator [log]-5.43
+14/Mar/2021:13:55:46 619 [Calculator.java] [INFO] com.calculator.Calculator [log ANSWER]-1.691939133945844
+14/Mar/2021:13:55:46 620 [Calculator.java] [INFO] com.calculator.Calculator [FACTORIAL]-4
+14/Mar/2021:13:55:46 621 [Calculator.java] [INFO] com.calculator.Calculator [FACTORIAL ANSWER]-24.0
+14/Mar/2021:13:55:46 621 [Calculator.java] [INFO] com.calculator.Calculator [FACTORIAL]-5
+14/Mar/2021:13:55:46 622 [Calculator.java] [INFO] com.calculator.Calculator [FACTORIAL ANSWER]-120.0
+14/Mar/2021:13:55:46 624 [Calculator.java] [INFO] com.calculator.Calculator [POWER]-2.0
+14/Mar/2021:13:55:46 624 [Calculator.java] [INFO] com.calculator.Calculator [POWER ANSWER]-32.0
+14/Mar/2021:13:55:46 624 [Calculator.java] [INFO] com.calculator.Calculator [POWER]-2.0
+14/Mar/2021:13:55:46 625 [Calculator.java] [INFO] com.calculator.Calculator [POWER ANSWER]-9.18958683997628
+14/Mar/2021:13:55:46 625 [Calculator.java] [INFO] com.calculator.Calculator [POWER]-3.0
+14/Mar/2021:13:55:46 626 [Calculator.java] [INFO] com.calculator.Calculator [POWER ANSWER]-9.0
+14/Mar/2021:13:55:46 627 [Calculator.java] [INFO] com.calculator.Calculator [POWER]-2.0
+14/Mar/2021:13:55:46 631 [Calculator.java] [INFO] com.calculator.Calculator [POWER ANSWER]-43.11147445970208
+14/Mar/2021:13:55:46 632 [Calculator.java] [INFO] com.calculator.Calculator [log]-8.0
+14/Mar/2021:13:55:46 634 [Calculator.java] [INFO] com.calculator.Calculator [log ANSWER]-2.0794415416798357
+14/Mar/2021:13:55:46 634 [Calculator.java] [INFO] com.calculator.Calculator [log]-6.0
+14/Mar/2021:13:55:46 636 [Calculator.java] [INFO] com.calculator.Calculator [log ANSWER]-1.791759469228055
+14/Mar/2021:13:56:38 129 [Calculator.java] [INFO] com.calculator.Calculator [FACTORIAL]-5
+14/Mar/2021:13:56:38 148 [Calculator.java] [INFO] com.calculator.Calculator [FACTORIAL ANSWER]-120.0
